@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "android": {
+      "permissions": [
+        "RECORD_AUDIO",
+        "MODIFY_AUDIO_SETTINGS"
+      ],
+      "usesCleartextTraffic": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "step1_title": "Step One",
+  "step1_desc": "Keep your Aadhaar card ready.",
+  "step2_title": "Step Two",
+  "step2_desc": "Enter your mobile number.",
+  "step3_title": "Step Three",
+  "step3_desc": "Complete OTP verification.",
+
+  "play_instruction": "Play Instruction",
+  "pause_instruction": "Pause Instruction",
+
+  "next": "Next",
+  "previous": "Previous",
+  "back": "Back",
+  
+  "you_said": "You said:"
+}
